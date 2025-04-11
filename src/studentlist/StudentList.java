@@ -6,7 +6,7 @@ package studentlist;
 
 /**
  *
- * @author fagun  Ayushi
+ * @author fagun  Ayushi Patel
  */
 public class StudentList {
 
